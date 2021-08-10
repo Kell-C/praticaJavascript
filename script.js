@@ -35,18 +35,6 @@ function clearElement(element) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // let newStr = '';
 
 // function reverseAString(str){
